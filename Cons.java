@@ -13,7 +13,7 @@ public class Cons {
 	
 	public static void main(String[] args) {
 	new Cons();
-	new Cons(101,"swathi jangala");
+	new Cons(101,"pranith");
 	}
 
 }
